@@ -41,7 +41,7 @@ There are several ways to import data:
    > 
    >  With the Import Data Wizard, you can specify the “Map Automatically” option. The wizard automatically maps all the files and the column headings with record types and fields if:  
    > 
-   > - The file names exactly match the display name of the record type.  
+   > - The file names exactly match the schema name of the record type.  
    >   -   The column headings of the file you are importing exactly match the display names of the fields in the record.  
   
 3. To add data for an individual record, the quickest way is to use **Quick Create** from the nav bar or **New** from the entity form.  
